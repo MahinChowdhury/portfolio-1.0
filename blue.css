@@ -1,0 +1,19 @@
+:root{
+
+    --mainColor : #15202b;
+    --secondaryColor : #192734;
+    --boxColor : #15202b;
+    --boxSecondary : #192734;
+    --boxShadow : black;
+
+    --borderColor : #164d56;
+
+    --mainText : #fff;
+    --secondaryText : #eeeeee;
+
+    --themeDotBorder : #fff;
+    --previewBg : rgb(25,39,40);
+    
+    --btnColor : #17a2b8;
+    --navColor : white;
+}
